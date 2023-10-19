@@ -1,0 +1,16 @@
+﻿  BealConjThree.cpp
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\Menu.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\helper.h(28,13): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\helper.h(29,16): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\helper.h(37,34): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\helper.h(86,33): warning C4129: ':': unrecognized character escape sequence
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\helper.h(86,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\helper.h(115,24): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\bigNumber.h(77,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\bigNumber.h(86,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  BealConjThree.vcxproj -> C:\Users\idhant\Desktop\UNI\FINALFINAL\BealConjThree\x64\Debug\BealConjThree.exe
